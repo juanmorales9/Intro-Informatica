@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pepe el perro pepe , Tengo un perro que se llama pepe 
+=======
+Pepe el perro pepe el perro pepe
+>>>>>>> 2e6c21147d4c04bc02e97e7164b25011142361f5
